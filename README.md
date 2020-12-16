@@ -2,7 +2,7 @@
 
 <img src="assets/screenshot1.png" alt="screenshot" align=center style="zoom:45%;" />
 
-Looking for quotes that pair with your photos to post on social media or other websites?  **Moodquote** is a web application that will analyze your photo and generate good quotes that fit your mood.
+Looking for quotes that pair with your photos to post on social media or other websites?  Moodquote is a web application that will analyze your photo and generate good quotes that fit your mood.
 
 :crown: Upload an image and select a mood for quotes, then you are just one click away from the quotes! 
 
@@ -14,11 +14,11 @@ Looking for quotes that pair with your photos to post on social media or other w
   - [Quotes maker](#quotes-maker)
   - [Quote of the day](#quote-of-the-day)
 - [Data](#data)
-- [Built with](#built-with)
 - [Run this app locally](#run-this-app-locally)
 - [Run the tests](#run-the-tests)
-- [Authors](#authors)
+- [Built with](#built-with)
 - [License](#license)
+- [Authors](#authors)
 
 ## About this app
 
