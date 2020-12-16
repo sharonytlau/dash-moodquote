@@ -1,4 +1,4 @@
-# MOODQUOTE ![repo-size](https://img.shields.io/github/languages/code-size/sharonytlau/moodquote?&color=<green>) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+# MOODQUOTE ![repo-size](https://img.shields.io/github/languages/code-size/sharonytlau/dash-moodquote?&color=<green>) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
 <img src="assets/screenshot1.png" alt="screenshot" align=center style="zoom:45%;" />
 
