@@ -22,7 +22,7 @@ Looking for quotes that pair with your photos to post on social media or other w
 
 ## About this app
 
-#### Quotes maker
+### Quotes maker
 
 The main function of this app is to generate quotes by matching image `color`, `mood` and `theme` (optional) with quotes features.
 
@@ -33,7 +33,7 @@ The main function of this app is to generate quotes by matching image `color`, `
 
 <img src="assets/screenshot3.png" alt="screenshot" align=center style="zoom:45%;" />
 
-#### **Quote of the day** 
+### **Quote of the day** 
 
 Our app also displays a randomly-picked popular quote every day by using the date as the seed.
 
