@@ -1,0 +1,13 @@
+name,rgb,pos_tag,neg_tag
+blue,"[32, 114, 178]","['integrity', 'stability', 'trust', 'loyalty', 'serenity', 'reverence', 'safe']","['depression', 'fear', 'cold']"
+green,"[8, 144, 93]","['healing', 'growth', 'spirituality', 'nature', 'wellness']","['envy', 'guilt', 'jealousy']"
+yellow,"[255, 215, 0]","['bright', 'friend', 'intellect', 'joy', 'open', 'passion', 'warmth', 'confidence']","['illness', 'danger']"
+purple,"[110, 56, 141]","['ambition', 'luxury', 'royalty', 'nobility', 'wealth', 'spirituality']","['mystery', 'depression']"
+pink,"[255, 116, 140]","['compassion', 'feminine', 'care', 'sweetness', 'love', 'wellness']","['immaturity', 'weak']"
+red,"[255, 26, 26]","['desire', 'energy', 'confidence', 'love', 'strength', 'power', 'passion', 'ability', 'desire', 'love', 'dedication', 'strength', 'power', 'determination', 'passion']","['anger', 'danger']"
+orange,"[255, 144, 0]","['creativity', 'energy', 'friend', 'optimism', 'success', 'confidence', 'courage', 'young', 'passion']","['ignorance', 'lazy']"
+brown,"[147, 33, 7]","['friend', 'prosperity', 'wisdom', 'wealth', 'nature']","['concern', 'lazy']"
+silver,"[152, 152, 156]","['modern', 'novel', 'serenity']",['boring']
+white,"[255, 255, 255]","['clean', 'innocence', 'goodness', 'comfortable', 'goodness', 'modern', 'novel', 'serenity', 'light']","['emptiness', 'isolation']"
+gray,"[77, 75, 76]","['serenity', 'safe', 'stability']","['decision', 'dark', 'concern', 'sorrow']"
+black,"[4, 7, 7]","['elegance', 'serenity', 'stability', 'safe']","['death', 'evil', 'mystery', 'dark', 'concern', 'destruction', 'sorrow']"
