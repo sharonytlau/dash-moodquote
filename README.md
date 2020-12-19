@@ -55,7 +55,7 @@ To get started, clone this repo:
 
 
 ```
-git clone https://github.com/sharonytlau/moodquote.git
+git clone https://github.com/sharonytlau/dash-moodquote.git
 cd moodquote
 ```
 
